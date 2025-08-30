@@ -1,0 +1,2 @@
+del *.mod
+del *.exe
